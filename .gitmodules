@@ -4,3 +4,6 @@
 [submodule "es6-katas"]
 	path = es6-katas
 	url = git@github.com:dideler/es6-katas.git
+[submodule "project-euler"]
+	path = project-euler
+	url = git@github.com:BrockCSC/project-euler.git
