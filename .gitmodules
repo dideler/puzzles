@@ -1,0 +1,6 @@
+[submodule "4clojure"]
+	path = 4clojure
+	url = git@github.com:dideler/4clojure.git
+[submodule "es6-katas"]
+	path = es6-katas
+	url = git@github.com:dideler/es6-katas.git
